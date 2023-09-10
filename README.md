@@ -42,3 +42,38 @@ Bien sûr, voici une liste des propriétés CSS courantes avec leur traduction e
     opacity : Opacité
     filter : Filtre
     text-overflow : Débordement du texte
+
+
+
+    class
+
+        .container : Pour définir un conteneur ou un bloc dans une mise en page.
+    .header : Pour styliser la partie d'en-tête d'une page web.
+    .footer : Pour styliser la partie de pied de page d'une page web.
+    .menu : Pour styliser un menu de navigation.
+    .button : Pour styliser les boutons interactifs.
+    .section : Pour définir des sections dans une mise en page.
+    .article : Pour styliser des articles ou des éléments de contenu.
+    .sidebar : Pour créer une barre latérale dans une mise en page.
+    .widget : Pour styliser des éléments de contenu réutilisables.
+    .hero : Pour mettre en évidence une section ou une bannière en haut de page.
+    .carousel : Pour créer un carrousel d'images ou de contenu.
+    .form : Pour styliser des formulaires HTML.
+    .error-message : Pour styliser les messages d'erreur dans les formulaires.
+    .success-message : Pour styliser les messages de succès dans les formulaires.
+    .clearfix : Pour gérer les problèmes de flottement (clear floating).
+    .clearfix::after : Utilisé avec clearfix pour nettoyer les éléments flottants.
+    .active : Pour indiquer un élément actif ou sélectionné.
+    .highlight : Pour mettre en surbrillance un élément.
+    .dark-mode : Pour activer un thème sombre dans l'interface utilisateur.
+    .light-mode : Pour activer un thème clair dans l'interface utilisateur.
+    .hidden : Pour masquer un élément de la page.
+    .visible : Pour rendre un élément visible.
+    .animated : Pour appliquer des animations à un élément.
+    .centered : Pour centrer horizontalement un élément.
+    .vertical-center : Pour centrer verticalement un élément.
+    .clearfix : Pour nettoyer les flottants.
+    .rounded : Pour arrondir les coins d'un élément.
+    .active : Pour indiquer un élément actif ou en cours.
+    .disabled : Pour désactiver un élément.
+    .primary : Pour styliser les éléments principaux ou importants.
