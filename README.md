@@ -1,6 +1,6 @@
 # Training_html_css
 
-Bien sûr, voici une liste des propriétés CSS courantes avec leur traduction en français :
+ liste des propriétés CSS courantes avec leur traduction en français :
 
     color : Couleur
     font-family : Famille de police
