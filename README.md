@@ -77,3 +77,33 @@
     .active : Pour indiquer un élément actif ou en cours.
     .disabled : Pour désactiver un élément.
     .primary : Pour styliser les éléments principaux ou importants.
+
+
+selecteurs html
+Les sélecteurs HTML sont des modèles de sélection qui permettent de cibler et de styliser différents éléments HTML sur une page web. Voici une liste de sélecteurs HTML couramment utilisés :
+
+    Sélecteur de balise : Sélectionne tous les éléments ayant la balise spécifiée. Exemple : p sélectionnera tous les paragraphes.
+
+    Sélecteur de classe : Sélectionne tous les éléments ayant la classe spécifiée. Exemple : .ma-classe sélectionnera tous les éléments avec la classe "ma-classe".
+
+    Sélecteur d'ID : Sélectionne l'élément ayant l'ID spécifié. Exemple : #mon-id sélectionnera l'élément avec l'ID "mon-id".
+
+    Sélecteur universel : Sélectionne tous les éléments de la page. Exemple : * sélectionnera tous les éléments.
+
+    Sélecteur d'attribut : Sélectionne les éléments ayant un attribut spécifique. Exemple : [type="text"] sélectionnera tous les éléments avec l'attribut "type" ayant la valeur "text".
+
+    Sélecteur descendant : Sélectionne les éléments enfants d'un élément spécifié. Exemple : div p sélectionnera tous les paragraphes qui sont des descendants d'un élément div.
+
+    Sélecteur enfant direct : Sélectionne les éléments enfants directs d'un élément spécifié. Exemple : ul > li sélectionnera tous les éléments li qui sont des enfants directs d'un élément ul.
+
+    Sélecteur de groupe : Permet de regrouper plusieurs sélecteurs pour appliquer les mêmes styles à plusieurs éléments. Exemple : h1, h2, h3 sélectionnera tous les éléments h1, h2 et h3.
+
+    Sélecteur de pseudo-classe : Sélectionne des éléments dans un état particulier, comme :hover pour les éléments survolés, :first-child pour le premier élément de son parent, etc.
+
+    Sélecteur de pseudo-élément : Sélectionne une partie spécifique d'un élément, comme ::before pour le contenu inséré avant un élément, ::after pour le contenu inséré après un élément, etc.
+
+    Sélecteur d'élément avec attribut : Sélectionne les éléments qui ont un attribut spécifié, quels que soient leur valeur. Exemple : [data-toggle] sélectionnera tous les éléments avec l'attribut "data-toggle".
+
+    Sélecteur d'élément avec attribut et valeur : Sélectionne les éléments qui ont un attribut spécifié avec une valeur spécifique. Exemple : [data-toggle="modal"] sélectionnera tous les éléments avec l'attribut "data-toggle" ayant la valeur "modal".
+
+Ces sélecteurs vous permettent de cibler avec précision les éléments que vous souhaitez styliser dans votre page web en utilisant des règles CSS.
